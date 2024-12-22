@@ -1,0 +1,11 @@
+[
+    {
+        "event": "created",
+        "file": "/home/kali/bsm/test/test_file.txt",
+        "time": "Sat Dec 22 13:47:03 2024"
+    },
+    {
+        "event": "modified",
+        "file": "/home/kali/bsm/test/test_file.txt",
+        "time": "Sat Dec 22 13:48:10 2024"
+    },
